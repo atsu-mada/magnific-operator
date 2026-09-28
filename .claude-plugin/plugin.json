@@ -1,0 +1,22 @@
+{
+  "name": "magnific-operator",
+  "version": "1.0.0",
+  "description": "Operate the Magnific AI suite through its MCP server: image/video generation (including Seedance 2.5), upscaling, uploads, Spaces canvas, and cost estimation, with quote-approve-run gates. No browser automation.",
+  "author": {
+    "name": "atsu-mada",
+    "url": "https://github.com/atsu-mada"
+  },
+  "homepage": "https://github.com/atsu-mada/magnific-operator",
+  "repository": "https://github.com/atsu-mada/magnific-operator",
+  "license": "MIT",
+  "keywords": [
+    "magnific",
+    "mcp",
+    "seedance",
+    "upscale",
+    "ai-video"
+  ],
+  "skills": [
+    "./"
+  ]
+}
