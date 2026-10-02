@@ -1,0 +1,4 @@
+interface:
+  display_name: "Magnific Operator"
+  short_description: "Magnific MCP で画像・動画生成（Seedance 2.5）、アップスケール、アップロード、Spaces、コスト見積もりを承認付きで実行する"
+  default_prompt: "Use $magnific-operator to execute the generation handoff on Magnific via its MCP server: quote the cost with simulate_cost, wait for my approval, run, then wait, register the download, save versioned files, and verify them with ffprobe."
